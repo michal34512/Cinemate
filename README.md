@@ -10,6 +10,6 @@ Cinemate is a desktop app which allows you to watch videos with your friend thro
 # Movie player
 ![obraz](https://github.com/michal34512/Cinemate/assets/136522993/a9b1785c-ca1e-4bf6-92a3-8c151370aef3)
 
-# Technologies used
+# Packages used
 [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) </br>
 [TextMeshPro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)
